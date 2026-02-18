@@ -1,4 +1,4 @@
-git@github.com:FillVibeCoder/ono-tebe-nado-fd..git
+https://github.com/FillVibeCoder/ono-tebe-nado-fd
 #Яндекс практикум, 1 спринт
 ____
 ##Оглавление 
